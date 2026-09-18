@@ -2,6 +2,9 @@
 
 A travel assistant for **Singapore** that combines a document knowledge base (RAG) with current weather and currency data from MCP tools.
 
+## Github Repo Link
+https://github.com/shyamkhakhar9/ai-ml-nagp-assignment
+
 ## Architecture
 
 ```
